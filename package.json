@@ -1,0 +1,11 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "This project was created to save schoolarship of one student from MT. Actually, course was not hard and we didn't struggled a lot (except qalyn mal)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abenova Bulbul (boolean)",
+  "license": "ISC"
+}
